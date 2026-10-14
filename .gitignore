@@ -1,0 +1,14 @@
+third_party/onnx/
+build/
+logs/
+.venv/
+__pycache__/
+seeds/schema/
+seeds/poc/
+corpus/
+crash-*
+leak-*
+timeout-*
+oom-*
+reports/replay.json
+.DS_Store
